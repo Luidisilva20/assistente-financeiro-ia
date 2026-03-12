@@ -20,5 +20,5 @@ Siga os passos abaixo para testar o assistente localmente:
 
 **1. Clone o repositório e acesse a pasta:**
 ```bash
-git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
+git clone [https://github.com/Luidisilva20/assistente-financeiro-ia.git](https://github.com/Luidisilva20/assistente-financeiro-ia.git)
 cd SEU_REPOSITORIO
